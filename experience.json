@@ -1,5 +1,5 @@
 [{
-        "title": "Front End Developer",
+        "title": "Front-End Developer",
         "department": "IT Department",
         "company": "AsiaInspection",
         "address": "Cebu City, Philippines",
@@ -15,7 +15,7 @@
         "exact_start_date": "JUly 14, 2016"
     },
     {
-        "title": "Full Stack Developer",
+        "title": "Full-Stack Developer",
         "department": "E-Learning Department",
         "company": "AsiaInspection",
         "address": "Cebu City, Philippines",
