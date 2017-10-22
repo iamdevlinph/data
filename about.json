@@ -7,29 +7,32 @@
     "skype": "live:devlinpajaron",
     "mobile": "(+63) 943 230 2440",
     "address": "Cebu City, Philippines",
-    "social_links": {
-        "github": {
+    "social_links": [{
+            "name": "github",
             "url": "https://github.com/iamdevlinph",
             "show": true,
             "order": 1,
             "icon": "icon-github-circled"
         },
-        "linkedin": {
+        {
+            "name": "linkedin",
             "url": "https://www.linkedin.com/in/iamdevlinph/",
             "show": true,
             "order": 2,
             "icon": "icon-linkedin"
         },
-        "stackoverflow": {
+        {
+            "name": "stackoverflow",
             "url": "http://stackoverflow.com/users/4620773/iamdevlinph",
             "show": true,
             "order": 3,
             "icon": "icon-stack-overflow"
         },
-        "twitter": {
+        {
+            "name": "twitter",
             "url": "https://twitter.com/iamdevlinph",
             "icon": "icon-twitter",
             "show": false
         }
-    }
+    ]
 }
