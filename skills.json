@@ -17,7 +17,7 @@
     {
         "name": "BEM",
         "long_name": "Block Element Modifier",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/Bem_rd5bui.jpg",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/skills/Bem_rd5bui.jpg",
         "tags": [
             "Methodology"
         ],
@@ -31,7 +31,7 @@
     },
     {
         "name": "CodeIgniter",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/CodeIgniter_asfrid.jpg",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/skills/CodeIgniter_asfrid.jpg",
         "tags": [
             "Framework"
         ],
@@ -45,7 +45,7 @@
     },
     {
         "name": "CSS",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/CSS_fb7zkv.jpg",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/skills/CSS_fb7zkv.jpg",
         "tags": [
             "Front-End"
         ],
@@ -59,7 +59,7 @@
     },
     {
         "name": "D3.js",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/d3js_ofrpaw.png",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/d3js_ofrpaw.png",
         "tags": [
             "Front-End"
         ],
@@ -87,7 +87,7 @@
     },
     {
         "name": "HTML",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/HTML_izavol.jpg",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/HTML_izavol.jpg",
         "tags": [
             "Front-End"
         ],
@@ -158,7 +158,7 @@
     },
     {
         "name": "MySQL",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/MYSQL_l8kudn.jpg",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/skills/MYSQL_l8kudn.jpg",
         "tags": [
             "Data"
         ],
@@ -200,7 +200,7 @@
     },
     {
         "name": "Photoshop",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076324/PS_cxjdyu.jpg",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076324/skills/PS_cxjdyu.jpg",
         "tags": [
             "Tool"
         ],
@@ -330,7 +330,7 @@
     },
     {
         "name": "Yarn",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076326/yarn_j9weid.png",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076326/skills/yarn_j9weid.png",
         "tags": [
             ""
         ],
