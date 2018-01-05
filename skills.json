@@ -264,7 +264,7 @@
             "Library"
         ],
         "duration": {
-            "usedFrom": "October-2017",
+            "usedFrom": "August-2017",
             "usedTo": "Present",
             "showDuration": false,
             "hideDurationText": "Just learned this recently. Looks cool. Nothing much to say. Might also try redux thunk"
@@ -292,8 +292,8 @@
             ""
         ],
         "duration": {
-            "usedFrom": "",
-            "usedTo": "",
+            "usedFrom": "28-January-2017",
+            "usedTo": "Present",
             "showDuration": false,
             "hideDurationText": "Most boilerplates have webpack already. But I have a general idea about it"
         },
@@ -335,8 +335,8 @@
             ""
         ],
         "duration": {
-            "usedFrom": "",
-            "usedTo": "",
+            "usedFrom": "21-April-2016",
+            "usedTo": "Present",
             "showDuration": false,
             "hideDurationText": "Alternative to npm. Seems to be much faster"
         },
