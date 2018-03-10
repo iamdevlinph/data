@@ -1,7 +1,7 @@
 [
   {
     "name": "AngularJS",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/AngularJS_rb429s.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/AngularJS_rb429s.jpg",
     "tags": [
       "Front-End",
       "Framework"
@@ -17,7 +17,7 @@
   {
     "name": "BEM",
     "long_name": "Block Element Modifier",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/Bem_rd5bui.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/skills/Bem_rd5bui.jpg",
     "tags": [
       "Methodology"
     ],
@@ -31,7 +31,7 @@
   },
   {
     "name": "CodeIgniter",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/CodeIgniter_asfrid.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/skills/CodeIgniter_asfrid.jpg",
     "tags": [
       "Framework"
     ],
@@ -42,11 +42,11 @@
       "hideDurationText": "Used this through college and a few months on work. Can read some code but I don't prefer coding in it anymore. For reference only"
     },
     "showSkill": true,
-    "referenceOnly": true 
+    "referenceOnly": true
   },
   {
     "name": "CSS",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/CSS_fb7zkv.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076321/skills/CSS_fb7zkv.jpg",
     "tags": [
       "Front-End"
     ],
@@ -60,7 +60,7 @@
   },
   {
     "name": "D3.js",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/d3js_ofrpaw.png",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/d3js_ofrpaw.png",
     "tags": [
       "Front-End"
     ],
@@ -74,7 +74,7 @@
   },
   {
     "name": "GIT",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/GIT_nfixmw.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/GIT_nfixmw.jpg",
     "tags": [
       "Tool"
     ],
@@ -88,7 +88,7 @@
   },
   {
     "name": "HTML",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/HTML_izavol.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/HTML_izavol.jpg",
     "tags": [
       "Front-End"
     ],
@@ -102,7 +102,7 @@
   },
   {
     "name": "Java",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/Java_oylaza.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/Java_oylaza.jpg",
     "tags": [
       "Back-End"
     ],
@@ -113,11 +113,11 @@
       "hideDurationText": "Just a one-semester knowledge. Can read some Java code. For reference only"
     },
     "showSkill": true,
-    "referenceOnly": true 
+    "referenceOnly": true
   },
   {
     "name": "JavaScript",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/JS_mf1t2i.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/skills/JS_mf1t2i.jpg",
     "tags": [
       "Front-End"
     ],
@@ -131,7 +131,7 @@
   },
   {
     "name": "jQuery",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/jQuery_jrjjhe.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076322/skills/jQuery_jrjjhe.jpg",
     "tags": [
       "Front-End",
       "Library"
@@ -143,7 +143,7 @@
       "hideDurationText": "Used this through out our thesis for animations and stuff. But I try to avoid it now as some say it's bad - performance wise"
     },
     "showSkill": true,
-    "referenceOnly": true 
+    "referenceOnly": true
   },
   {
     "name": "Laravel",
@@ -158,11 +158,11 @@
       "showDuration": false
     },
     "showSkill": false,
-    "referenceOnly": true 
+    "referenceOnly": true
   },
   {
     "name": "MySQL",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/MYSQL_l8kudn.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/skills/MYSQL_l8kudn.jpg",
     "tags": [
       "Data"
     ],
@@ -173,11 +173,11 @@
       "hideDurationText": "I became a front-end guy and I don't database stuff anymore. But will learn mongodb instead, if I have the time"
     },
     "showSkill": true,
-    "referenceOnly": true 
+    "referenceOnly": true
   },
   {
     "name": "npm",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/npm_aniial.png",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/skills/npm_aniial.png",
     "tags": [
       ""
     ],
@@ -191,7 +191,7 @@
   },
   {
     "name": "Paypal API",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/Paypal_niyno0.png",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076323/skills/Paypal_niyno0.png",
     "tags": [
       "Tool"
     ],
@@ -205,7 +205,7 @@
   },
   {
     "name": "Photoshop",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076324/PS_cxjdyu.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076324/skills/PS_cxjdyu.jpg",
     "tags": [
       "Tool"
     ],
@@ -219,7 +219,7 @@
   },
   {
     "name": "PHP",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076324/PHP_exmekf.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076324/skills/PHP_exmekf.jpg",
     "tags": [
       "Back-End"
     ],
@@ -230,11 +230,11 @@
       "hideDurationText": "I no longer code in PHP. For reference only"
     },
     "showSkill": true,
-    "referenceOnly": true 
+    "referenceOnly": true
   },
   {
     "name": "React",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076327/ReactJS_efwxep.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076327/skills/ReactJS_efwxep.jpg",
     "tags": [
       "Front-End",
       "Library"
@@ -249,7 +249,7 @@
   },
   {
     "name": "Redux",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076325/Redux_yzt1c6.png",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076325/skills/Redux_yzt1c6.png",
     "tags": [
       "Front-End",
       "Library"
@@ -279,7 +279,7 @@
   },
   {
     "name": "SASS",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076325/sass_vosad2.jpg",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076325/skills/sass_vosad2.jpg",
     "tags": [
       "Front-End"
     ],
@@ -293,7 +293,7 @@
   },
   {
     "name": "Webpack",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076327/webpack_yggmfg.png",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076327/skills/webpack_yggmfg.png",
     "tags": [
       ""
     ],
@@ -319,11 +319,11 @@
       "hideDurationText": "Just a summer class"
     },
     "showSkill": false,
-    "referenceOnly": true 
+    "referenceOnly": true
   },
   {
     "name": "Vue.js",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076325/vuejs_vyrweu.png",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076325/skills/vuejs_vyrweu.png",
     "tags": [
       "Front-End"
     ],
@@ -337,7 +337,7 @@
   },
   {
     "name": "Yarn",
-    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076326/yarn_j9weid.png",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076326/skills/yarn_j9weid.png",
     "tags": [
       ""
     ],

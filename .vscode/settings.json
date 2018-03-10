@@ -1,3 +1,5 @@
 {
-    "insertDateString.format": "YYYY-MM-DD"
+  "insertDateString.format": "YYYY-MM-DD",
+  "eslint.autoFixOnSave": false,
+  "editor.formatOnSave": false,
 }
