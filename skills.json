@@ -292,6 +292,17 @@
     "showSkill": true
   },
   {
+    "name": "styled-components",
+    "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1521045530/skills/styled-components.png",
+    "duration": {
+      "usedFrom": "26-February-2018",
+      "usedTo": "Present",
+      "showDuration": false,
+      "hideDurationText": "Styling on the component level"
+    },
+    "showSkill": true
+  },
+  {
     "name": "Webpack",
     "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1506076327/skills/webpack_yggmfg.png",
     "tags": [
