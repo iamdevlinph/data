@@ -1,7 +1,7 @@
 [
     {
         "name": "Resume (React)",
-        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1508587880/portfolio/resume.png",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1522254869/portfolio/resume.png",
         "url": "https://iamdevlinph.github.io/resume/",
         "isShow": true
     },
@@ -18,10 +18,10 @@
         "isShow": true
     },
     {
-        "name": "Blog (Jekyll)",
-        "img_path": "./img/blog.png",
+        "name": "Blog",
+        "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1522254844/portfolio/blog.png",
         "url": "https://blog.iamdevlinph.me/",
-        "isShow": false
+        "isShow": true
     },
     {
         "name": "Me",
@@ -32,7 +32,7 @@
     {
         "name": "codes and coffee",
         "img_path": "https://res.cloudinary.com/dfrhytey3/image/upload/v1508587875/portfolio/codesandcoffee.png",
-        "url": "http://www.codesandcoffee.com/",
-        "isShow": false
+        "url": "http://www.codesandcoffees.com/",
+        "isShow": true
     }
 ]
