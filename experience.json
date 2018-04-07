@@ -2,7 +2,6 @@
   {
     "id": 2,
     "title": "Front-End Developer",
-    "department": "IT Department",
     "company": "AsiaInspection",
     "address": "Cebu City, Philippines",
     "long_address": "Floor 5, Skyrise 3, IT Park, Lahug, Cebu City, Philippines",
@@ -19,7 +18,6 @@
   {
     "id": 1,
     "title": "Web Developer",
-    "department": "E-Learning Department",
     "company": "AsiaInspection",
     "address": "Cebu City, Philippines",
     "long_address": "Floor 5, Skyrise 3, IT Park, Lahug, Cebu City, Philippines",
